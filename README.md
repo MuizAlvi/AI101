@@ -1,5 +1,5 @@
 # AI101
-Repository containing hands-on, open-source, practise notebooks for participants attending the [AI 101: Introduction to Artificial Intelligence Workshop](https://www.facebook.com/events/429419051422702). 
+Repository containing hands-on, open-source, practise notebooks for participants attending the [AI 101: Introduction to Artificial Intelligence](https://www.facebook.com/events/429419051422702) Workshop.
 
 List of files:
 
