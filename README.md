@@ -3,6 +3,9 @@ Repository containing hands-on, open-source, practise notebooks for participants
 
 List of files:
 
+- Workshop Example:
+  - Feature Classifier Example
+
 - For Machine Learning:
   - 01 - Data Exploration
   - 02 - Regression
