@@ -3,6 +3,9 @@ Repository containing hands-on, open-source, practise notebooks for participants
 
 List of files:
 
+- Workshop Resources
+  - Resources.txt
+  
 - Workshop Example:
   - Feature Classifier Example
 
